@@ -158,6 +158,11 @@
 - [nearai/ironclaw](https://github.com/nearai/ironclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/nearai/ironclaw?style=social) - Privacy- and security-focused Rust implementation inspired by OpenClaw.
 - [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/NemoClaw?style=social) - More secure managed runtime approach for OpenClaw-style workloads.
 - [tophant-ai/ClawVault](https://github.com/tophant-ai/ClawVault) ![GitHub Repo stars](https://img.shields.io/github/stars/tophant-ai/ClawVault?style=social) - Security vault project for tighter control around OpenClaw environments.
+- [adversa-ai/secureclaw](https://github.com/adversa-ai/secureclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/adversa-ai/secureclaw?style=social) - 360-degree security plugin and skills with 56 audit checks, OWASP ASI coverage, automated hardening, and behavioral security rules.
+- [knostic/openclaw-shield](https://github.com/knostic/openclaw-shield) ![GitHub Repo stars](https://img.shields.io/github/stars/knostic/openclaw-shield?style=social) - Security plugin preventing secret leaks, PII exposure, and destructive command execution with 5-layer defense-in-depth.
+- [superglue-ai/clawguardian](https://github.com/superglue-ai/clawguardian) ![GitHub Repo stars](https://img.shields.io/github/stars/superglue-ai/clawguardian?style=social) - Security plugin that detects and filters sensitive data in tool calls including secrets, PII, and destructive commands.
+- [adibirzu/openclaw-security-monitor](https://github.com/adibirzu/openclaw-security-monitor) ![GitHub Repo stars](https://img.shields.io/github/stars/adibirzu/openclaw-security-monitor?style=social) - Proactive security monitoring detecting ClawHavoc campaign, AMOS stealer, memory poisoning, and supply chain attacks.
+- [SeyZ/clawbands](https://github.com/SeyZ/clawbands) ![GitHub Repo stars](https://img.shields.io/github/stars/SeyZ/clawbands?style=social) - Security middleware enforcing human-in-the-loop approval before dangerous tool executions.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
